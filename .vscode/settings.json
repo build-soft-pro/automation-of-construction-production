@@ -1,5 +1,5 @@
 {  
   "yaml.schemas": {  
-    "http://localhost:5000/api/yml/schema.json": "app.yml"
+    "https://configurator.report.ms/api/yml/schema.json": "app.yml"
   }  
 }  
