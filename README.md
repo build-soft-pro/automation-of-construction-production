@@ -17,7 +17,8 @@
 - Установите интерфейс коммандной строки [report.ms/cli](https://report.ms/cli)
 
 ### Запуск из vscode
-Для сборки из [vscode](https://code.visualstudio.com/) нажмите **F5**
+Для сборки из [vscode](https://code.visualstudio.com/) нажмите **F5**  
+Для работы автокомплита установие [расширение](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ### Запуск из коммандной строки
 Для сборки из командной строки выполните:
