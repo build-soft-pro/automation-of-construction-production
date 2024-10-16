@@ -1,0 +1,12 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Report Build",
+            "type": "shell",
+            "command": "report build",
+            "group": "build",
+            "problemMatcher": []
+        }
+    ]
+}

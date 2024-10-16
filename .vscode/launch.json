@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Report Build",
+            "type": "node",
+            "request": "launch",
+            "preLaunchTask": "Report Build",
+            "outFiles": [],
+            "runtimeArgs": ["--exit"],
+            "skipFiles": ["<node_internals>/**"]
+        }
+    ]
+}
